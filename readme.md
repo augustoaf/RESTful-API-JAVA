@@ -1,4 +1,4 @@
-RESTful App example  
+RESTful App sample in Java  
 This App is a RESTful API which receive HTTP requests like GET and return a JSON object as a response.
 Initial code (scaffolding architecture) created with "Sprint Initializr" (https://start.spring.io/) having JAR as packaging which has Tomcat embedded.
 
